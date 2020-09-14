@@ -1,0 +1,21 @@
+{
+  "name": "email-lib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "main": "bundles/email-lib.umd.js",
+  "module": "fesm5/email-lib.js",
+  "es2015": "fesm2015/email-lib.js",
+  "esm5": "esm5/email-lib.js",
+  "esm2015": "esm2015/email-lib.js",
+  "fesm5": "fesm5/email-lib.js",
+  "fesm2015": "fesm2015/email-lib.js",
+  "typings": "email-lib.d.ts",
+  "metadata": "email-lib.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
